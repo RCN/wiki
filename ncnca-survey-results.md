@@ -31,7 +31,7 @@ The biggest group is cat 4
 
 Females are 19% only.
 
-People plan their racing season because of the following reasons:
+### People plan their racing season because of the following reasons:
 
 % | Responses | Reason
 --------|-------|------------
@@ -41,11 +41,24 @@ People plan their racing season because of the following reasons:
 19.0%| 25|   Because I have to, team requires me to pick at least 10 races
 7.0%| 10 |    other 
 
-**48% (65)** racers plan their season at the beginning, 23% - when they have a chance, 19% - before each sub-season.
+### When planning happens
 
-39% (52) plan it for several months, 26% plan it for full season, 19% - for a month.
+**48% (65)** racers plan their season at the beginning 
 
-Criteria you use to decide on your events:
+**23%** — when they have a chance
+
+**19%** — before each sub-season.
+
+
+### For what period racers plan
+
+**39% (52)** plan for several months
+
+**26%** plan for full season
+
+**19%** plan for a month.
+
+### Criteria you use to decide on your events:
 
 number | points | criteria
 -----------|------|---------
@@ -57,12 +70,15 @@ number | points | criteria
 6| 446 |What time does it start
 7| 409 |Number of people registered
 
-78% (105)  plan for their peak performance events.
+**78% (105) ** plan for their *peak performance* events.
 
-The most popular tools to save plan are 
-Training peaks (28%) 
-Google calendar (22%) 
-Google Spreadsheet (or Excel file) (20%).
+### The most popular tools to save plan
+
+Training Peaks — 28%
+
+Google calendar — 22%
+
+Google Spreadsheet (or Excel file) — 20%
 
 # Conclusion
 
