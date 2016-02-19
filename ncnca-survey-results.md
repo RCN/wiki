@@ -14,22 +14,18 @@ We've got 209 unique visits and **145** responses in this survey. **10** of them
 
 **88%** (127) are road racers.
 
-####Distribution by Categories
+####Distribution by Categories and Age
 The biggest group is cat 4
 
 | Category | % |
 | -- | -- |
 | cat 4 | 37% |
-| cat 3 | 19% |
-|  | 1:4 |
-| 0:5 | 1:5 |
+| cat 3 | 28% |
+| cat 2 | 19% |
+| cat 5 | 12% |
+| 1/Pro | 4%  |
 
-
-**cat 4 — 37%**
-cat 3 — 28%
-cat 2 — 19%
-cat 5 — 12%
-1/Pro — 4%.
+***TK*** *convert below to table*
 
 31% are 45-55 yo. 24-34, 35-44, 55+ yo - by 21%, under 23 - 6%.
 
