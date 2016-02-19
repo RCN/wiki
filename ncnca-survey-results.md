@@ -1,6 +1,6 @@
 # Why we do that
 
-We were trying to analyze how racers plan their racing season. Right now there is no any good tool: 
+We tried to analyze how racers plan their racing season. Right now there is no good tool: 
 - to look up all information about races, location and estimate driving time, 
 - to compare this with their usual life events 
 - to send this information to a coach
@@ -10,10 +10,26 @@ So we asked how people usually do that.
 
 # Survey results
 
-We've got 209 unique visits and 145 responses in this survey. 10 of them don't plan races at all (and 7 people would plan their season with a good tool).
+We've got 209 unique visits and **145** responses in this survey. **10** of them don't plan races at all (and 7 our of this 10 would would plan their season if good tool existed).
 
-88% (127) are road racers.
-The biggest group is cat 4 (37%), then cat 3 (28%), cat 2 - 19%, cat 5 - 12%, 1/Pro - 4%.
+**88%** (127) are road racers.
+
+####Distribution by Categories
+The biggest group is cat 4
+
+| Category | % |
+| -- | -- |
+| cat 4 | 37% |
+| cat 3 | 19% |
+|  | 1:4 |
+| 0:5 | 1:5 |
+
+
+**cat 4 — 37%**
+cat 3 — 28%
+cat 2 — 19%
+cat 5 — 12%
+1/Pro — 4%.
 
 31% are 45-55 yo. 24-34, 35-44, 55+ yo - by 21%, under 23 - 6%.
 
