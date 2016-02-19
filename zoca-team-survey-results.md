@@ -1,20 +1,20 @@
 # Why we do that
 
-We were trying to analyze how racers plan their racing season. Right now there is no any good tool: 
+We tried to analyze how racers plan their racing season. Right now there is no good tool: 
 - to look up all information about races, location and estimate driving time, 
 - to compare this with their usual life events 
 - to send this information to a coach
-- share it with their team 
+- share it with a team 
 
-So we asked how people usually do that.
+We asked racers how they usually do that.
 
 # Survey results
 
-52 people took part in this survey. 6 of them don't plan races at all.
+**52** racers took part in this survey. **6** of them don't plan races at all (c'mon guys).
 
-People plan their racing season by this reasons:
+Racers plan their racing season because of the following reasons:
 
-percentage | number | criteria
+% from total | # of responses | Reason
 --------|-------|------------
 87.0%| 40| For themselves, just to see how the calendar is going to look like 
 56.5%| 26| To let their team know what events they are going to do 
@@ -22,13 +22,15 @@ percentage | number | criteria
 8.7%| 4|   Because they have to, team requires to pick at least 10 races
 10.9%| 5 |    other 
 
-65.5% 30 people plan their season at the beginning, 32.6% - once a month.
+**65.5%** (30 racers) plan their season in the beginning 
 
-41.3% plan it for full season.
+**32.6%** – once a month.
 
-Criteria they use to decide which event to choose:
+**41.3% plan for full season**
 
-number | points | criteria
+Criteria racers use to decide which event to choose:
+
+Importance | Total Points | Criteria
 -----------|------|---------
 1| 341 |Type (RR, Crit, TT, etc) and amount of climbing
 2| 245 |How far it away
@@ -39,20 +41,22 @@ number | points | criteria
 7| 162 |What time does it start
 8| 124 |Number of people registered
 
-56.5%  plan for their peak performance events.
+**56.5%** plan for their peak performance events.
 
-The most popular tool to save plan is Google Spreadsheet (or Excel file). (more then 24%)
+The most popular tool to save plan is **Google Spreadsheet** (or Excel file) (more than 24%)
 
 People live in:
-10 Bay area
-9 San Jose 
-7 San Francisco
-5 Antioch
-3 Fremont
-3 Oakland
+
+* 10 Bay area
+* 9 San Jose 
+* 7 San Francisco
+* 5 Antioch
+* 3 Fremont
+* 3 Oakland
+
 
 # Conclusion
 
-Majority of racers are planing their season for a long period mostly at the beginning of season. They need it for a teammates, a coach or for planning their life.
-Interesting, that they don't think that the race start time is really important. It takes 7 place of 8. But they are interested in race type, distance to it and the past experience.
-They don't have any special tools for it, using spreadsheets, training peaks or just making some notes. 
+Majority of racers **do plan their season** for a long period, mostly at the beginning of season. They need it for teammates, coach and to better plan life around racing.
+Interesting, that survey indicated that racers don't think that race start time is somewhat important. It took 7th place out of 8. Instead, most important attributes are **event type**, **distance to drive** and whether they **liked it in the past**.
+Racers don't have any special tools for planing, use spreadsheets, training peaks or just text files. 
