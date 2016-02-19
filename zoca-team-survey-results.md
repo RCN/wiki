@@ -1,20 +1,20 @@
 # Why we do that
 
-We were trying to analyze how racers plan their racing season. Right now there is no any good tool: 
+We tried to analyze how racers plan their racing season. Right now there is no good tool: 
 - to look up all information about races, location and estimate driving time, 
 - to compare this with their usual life events 
 - to send this information to a coach
-- share it with their team 
+- share it with a team 
 
-So we asked how people usually do that.
+We asked racers how they usually do that.
 
 # Survey results
 
-52 people took part in this survey. 6 of them don't plan races at all.
+**52** racers took part in this survey. **6** of them don't plan races at all (c'mon guys).
 
-People plan their racing season by this reasons:
+Racers plan their racing season because of the following reasons:
 
-percentage | number | criteria
+% from total | # of responses | Reason
 --------|-------|------------
 87.0%| 40| For themselves, just to see how the calendar is going to look like 
 56.5%| 26| To let their team know what events they are going to do 
@@ -22,7 +22,8 @@ percentage | number | criteria
 8.7%| 4|   Because they have to, team requires to pick at least 10 races
 10.9%| 5 |    other 
 
-65.5% 30 people plan their season at the beginning, 32.6% - once a month.
+65.5% (30 racers) plan their season in the beginning 
+32.6% - once a month.
 
 41.3% plan it for full season.
 
