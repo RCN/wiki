@@ -25,7 +25,7 @@ The biggest group is cat 4
 | cat 5 | 12% |
 | 1/Pro | 4%  |
 
-##      ***TK*** *convert below to table*
+##***TK*** *convert below to table*
 
 31% are 45-55 yo. 24-34, 35-44, 55+ yo - by 21%, under 23 - 6%.
 
