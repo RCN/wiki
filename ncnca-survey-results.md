@@ -31,9 +31,9 @@ The biggest group is cat 4
 
 Females are 19% only.
 
-People plan their racing season by this reasons:
+People plan their racing season because of the following reasons:
 
-percentage | number | criteria
+% | Responses | Reason
 --------|-------|------------
 82.0%| 111| For myself (just to see how my calendar is going to look like)
 49.0%| 66| To let my team know 
@@ -41,7 +41,7 @@ percentage | number | criteria
 19.0%| 25|   Because I have to, team requires me to pick at least 10 races
 7.0%| 10 |    other 
 
-48% (65) people plan their season at the beginning, 23% - when they have a chance, 19% - before each sub-season.
+**48% (65)** racers plan their season at the beginning, 23% - when they have a chance, 19% - before each sub-season.
 
 39% (52) plan it for several months, 26% plan it for full season, 19% - for a month.
 
