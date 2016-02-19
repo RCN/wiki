@@ -1,0 +1,4 @@
+{ 
+    "description": "RCN.io wiki",
+     "plugins": ["heading-anchors"]
+}

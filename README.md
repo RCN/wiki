@@ -1,2 +1,4 @@
-# wiki
-Wiki for rcn.io, our surveys, data analysis and random thoughts.
+My Awesome Book
+=======
+
+This is a book for all RCN files, surveys, drafts or things we need to remember.
