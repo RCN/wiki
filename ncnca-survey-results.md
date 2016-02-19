@@ -19,17 +19,22 @@ The biggest group is cat 4
 
 | Category | % |
 | -- | -- |
-| cat 4 | 37% |
+| cat 5 | 12% |
+| cat 4 | **37%** |
 | cat 3 | 28% |
 | cat 2 | 19% |
-| cat 5 | 12% |
 | 1/Pro | 4%  |
 
-##***TK*** *convert below to table*
+| Age | % |
+| -- | -- |
+| 55+ | 21% |
+| 45-55 | **31%** |
+| 35-44 | 21% |
+| 24-34 | 21% |
+| Under 23 | 6%  |
 
-31% are 45-55 yo. 24-34, 35-44, 55+ yo - by 21%, under 23 - 6%.
 
-Females are 19% only.
+19% of female racers.
 
 ### People plan their racing season because of the following reasons:
 
