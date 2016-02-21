@@ -9,5 +9,5 @@ A Wiki for RCN files, surveys, drafts or things we need to remember.
   * [Comparing Zoca and NCNCA results](survey/comparing-zoca-and-ncnca-results.md)
 * [Races](races/README.md)
   * [NCNCA](races/ncnca/README.md)
-    * [Snelling Road race](races/ncnca/snelling-road-race.md)
+    * [Snelling Road Race](races/ncnca/snelling-road-race.md)
 

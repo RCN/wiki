@@ -1,1 +1,1 @@
-Snelling Road race
+Snelling Road Race
