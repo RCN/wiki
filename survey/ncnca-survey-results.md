@@ -1,13 +1,3 @@
-# Why we do that
-
-We tried to analyze how racers plan their racing season. Right now there is no good tool: 
-- to look up all information about races, location and estimate driving time, 
-- to compare this with their usual life events 
-- to send this information to a coach
-- share it with their team 
-
-So we asked how people usually do that.
-
 # Survey results
 
 We've got 209 unique visits and **145** responses in this survey. **10** of them don't plan races at all (and 7 our of this 10 would would plan their season if good tool existed).
