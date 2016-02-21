@@ -1,18 +1,44 @@
+# Why we do that
+
+We tried to analyze how racers plan their racing season. Right now there is no good tool: 
+- to look up all information about races, location and estimate driving time, 
+- to compare this with their usual life events 
+- to send this information to a coach
+- share it with their team 
+
+So we asked how people usually do that.
 
 # Survey results
 
-We've got 209 unique visits and 145 responses in this survey. 10 of them don't plan races at all (and 7 people would plan their season with a good tool).
+We've got 209 unique visits and **145** responses in this survey. **10** of them don't plan races at all (and 7 our of this 10 would would plan their season if good tool existed).
 
-88% (127) are road racers.
-The biggest group is cat 4 (37%), then cat 3 (28%), cat 2 - 19%, cat 5 - 12%, 1/Pro - 4%.
+**88%** (127) are road racers.
 
-31% are 45-55 yo. 24-34, 35-44, 55+ yo - by 21%, under 23 - 6%.
+####Distribution by Categories and Age
+The biggest group is cat 4
 
-Females are 19% only.
+| Category | % |
+| -- | -- |
+| cat 5 | 12% |
+| cat 4 | **37%** |
+| cat 3 | 28% |
+| cat 2 | 19% |
+| 1/Pro | 4%  |
 
-People plan their racing season by this reasons:
+| Age | % |
+| -- | -- |
+| 55+ | 21% |
+| 45-55 | **31%** |
+| 35-44 | 21% |
+| 24-34 | 21% |
+| Under 23 | 6%  |
 
-percentage | number | criteria
+
+19% of female racers.
+
+### People plan their racing season because of the following reasons:
+
+% | Responses | Reason
 --------|-------|------------
 82.0%| 111| For myself (just to see how my calendar is going to look like)
 49.0%| 66| To let my team know 
@@ -20,11 +46,24 @@ percentage | number | criteria
 19.0%| 25|   Because I have to, team requires me to pick at least 10 races
 7.0%| 10 |    other 
 
-48% (65) people plan their season at the beginning, 23% - when they have a chance, 19% - before each sub-season.
+### When planning happens
 
-39% (52) plan it for several months, 26% plan it for full season, 19% - for a month.
+**48% (65)** racers plan their season at the beginning 
 
-Criteria you use to decide on your events:
+**23%** — when they have a chance
+
+**19%** — before each sub-season.
+
+
+### For what period racers plan
+
+**39% (52)** plan for several months
+
+**26%** plan for full season
+
+**19%** plan for a month.
+
+### Criteria you use to decide on your events:
 
 number | points | criteria
 -----------|------|---------
@@ -36,12 +75,15 @@ number | points | criteria
 6| 446 |What time does it start
 7| 409 |Number of people registered
 
-78% (105)  plan for their peak performance events.
+**78% (105) ** plan for their *peak performance* events.
 
-The most popular tools to save plan are 
-Training peaks (28%) 
-Google calendar (22%) 
-Google Spreadsheet (or Excel file) (20%).
+### The most popular tools to save plan
+
+Training Peaks — 28%
+
+Google calendar — 22%
+
+Google Spreadsheet (or Excel file) — 20%
 
 # Conclusion
 
