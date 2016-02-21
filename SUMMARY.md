@@ -6,4 +6,5 @@
   * [NCNCA survey results](survey/ncnca-survey-results.md)
   * [Comparing Zoca and NCNCA results](survey/comparing-zoca-and-ncnca-results.md)
 * [Races](races/README.md)
-  * [NCNCA](races/README.md)
+  * [NCNCA](races/ncnca/README.md)
+    * [Snelling Road race](races/ncnca/snelling-road-race.md)
