@@ -7,7 +7,3 @@ We tried to analyze how racers plan their racing season. Right now there is no g
 - share it with their team 
 
 So we asked how people usually do that.
-
-* [Zoca team survey resuts](survey/zoca-team-survey-results.md)
-* [NCNCA survey results](survey/ncnca-survey-results.md)
-* [Comparing Zoca and NCNCA results](survey/comparing-zoca-and-ncnca-results.md)
