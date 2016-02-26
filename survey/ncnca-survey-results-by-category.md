@@ -1,3 +1,5 @@
+We divided all all answers to see do if categories vote differently
+
 # People plan their racing season because of the following reasons
 
 Answer | PRO/1  | % |  Cat 2 |  % | Cat 3  | % | Cat 4 |  % | Cat 5 |  %  
