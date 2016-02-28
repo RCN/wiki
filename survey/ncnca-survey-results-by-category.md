@@ -1,4 +1,4 @@
-We divided all answers on five groups (because of 5 racer's categories) to see if categories vote differently.
+We divided all answers by racing categories to see if categories vote differently.
 
 # People plan their racing season because of the following reasons
 
