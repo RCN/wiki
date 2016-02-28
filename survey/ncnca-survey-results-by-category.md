@@ -14,6 +14,6 @@ Because I have to (team requires me to pick certain number of races)  |  1 |  20
 Answer | PRO/1 | % |  Cat 2 | % | Cat 3 | % | Cat 4 | % | Cat 5 |  %  
 ------|-------|---|--------|-----|------|---|-------|----|------|----
 At the beginning of a season |	4 |	80%|17|	63%|	16|	41%|	22|	45%|	7	|44%
-Before each sub-season (winter-spring, summer-autumn)|	0	0%	5	19%	11	28%	9	18%	1	6%
-When I have a chance (spontaneously)	1	20%	3	11%	9	23%	11	22%	7	44%
-Once a month	0	0%	1	4%	3	8%	5	10%	1	6%
+Before each sub-season (winter-spring, summer-autumn)|	0 |	0%	|5	|19%	|11	|28%	|9	|18%	|1	|6%
+When I have a chance (spontaneously)	|1|	20%|	3	|11%|	9|	23%|	11|	22%|	7	|44%
+Once a month	|0	|0%|	1|	4%|	3	|8%|	5|	10%|	1	|6%
