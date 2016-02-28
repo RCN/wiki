@@ -17,3 +17,12 @@ At the beginning of a season |	4 |	80%|17|	63%|	16|	41%|	22|	45%|	7	|44%
 Before each sub-season (winter-spring, summer-autumn)|	0 |	0%	|5	|19%	|11	|28%	|9	|18%	|1	|6%
 When I have a chance (spontaneously)	|1|	20%|	3	|11%|	9|	23%|	11|	22%|	7	|44%
 Once a month	|0	|0%|	1|	4%|	3	|8%|	5|	10%|	1	|6%
+
+# What period of time do you plan for?		
+Answer | PRO/1 | % |  Cat 2 | % | Cat 3 | % | Cat 4 | % | Cat 5 |  %  
+------|-------|---|--------|-----|------|---|-------|----|------|----
+Full season 	1	20%	13	48%	7	18%	12	24%	2	13%
+Half a season	0	0%	2	7%	6	15%	6	12%	0	0%
+Several months 	2	40%	10	37%	17	44%	19	39%	4	25%
+Month 	2	40%	2	7%	7	18%	7	14%	9	56%
+Week or two	0	0%	0	0%	2	5%	4	8%	1	6%
