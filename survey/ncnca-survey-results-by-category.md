@@ -26,3 +26,14 @@ Half a season	|0	|0%|	2|	7%|	6|	15%|	6	|12%|	0|	0%
 Several months |	2|	40%|	10|	37%	|17|	44%	|19	|39%|	4|	25%
 Month 	|2	|40%|	2|	7%|	7|	18%|	7|	14%|	9	|56%
 Week or two	|0	|0%|	0|	0%|	2|	5%|	4	|8%|	1|	6%
+
+# Criteria you use to decide on your events								
+Answer | PRO/1 | place |  Cat 2 | place | Cat 3 | place | Cat 4 | place | Cat 5 |  place  
+------|-------|---|--------|-----|------|---|-------|----|------|----
+Event Type (RR, Crit, TT, etc)	|26|	3|	163|	1|	228|	1|	281|	1	|91|	1
+How far event away	|25|	4	|123|	3|	190|	3	|239|	3	|85	|2
+If I liked it in the past	|27|	2|	158|	2|	206|	2|	264|	2|	75|	3
+Number of teammates doing it	|18|	5|	108|	5|	145|	4|	174|	5|	54|	5
+Popularity / Prestige / Reputation of the event	|30|	1|	113|	4|	123|	6|	175|	4|	60|	4
+What time does it start	|17	|6|	87|	7|	126|	5|	165|	6|	54|	6
+Number of people registered	|17|	7|	96|	6|	123|	7|	134|	7|	43|	7
