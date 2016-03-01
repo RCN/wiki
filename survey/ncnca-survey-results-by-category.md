@@ -38,7 +38,7 @@ Popularity / Prestige / Reputation of the event	|30|	1|	113|	4|	123|	6|	175|	4|	
 What time does it start	|17	|6|	87|	7|	126|	5|	165|	6|	54|	6
 Number of people registered	|17|	7|	96|	6|	123|	7|	134|	7|	43|	7
 
-Criteria|	Event Type (RR, Crit, TT, etc)	|How far event away|	If I liked it in the past|	Number of teammates doing it	|Popularity / Prestige / Reputation of the event|	What time does it start	Number of people registered	| Points
+Criteria|	Event Type (RR, Crit, TT, etc)	|How far event away|	If I liked it in the past|	Number of teammates doing it	|Popularity / Prestige / Reputation of the event|	What time does it start	| Number of people registered	| Points
 ---|---|---|---|----|----|----|---
 PRO/1|	3|	4|	2|	5|	1|	6|	7|	26-25-27-18-30-17-17			
 Cat 2|	1|	3|	2|	5|	4|	7|	6|	163-123-158-108-113-87-96
