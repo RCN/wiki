@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Interview](interview/README.md)
   * [Organizers](interview/organizers/README.md)
+    * [Questions](interview/organizers/questions.md)
 * [Races](races/README.md)
   * [NCNCA](races/ncnca/README.md)
     * [Snelling Road Race](races/ncnca/snelling-road-race.md)
