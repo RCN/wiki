@@ -37,3 +37,8 @@ Number of teammates doing it	|18|	5|	108|	5|	145|	4|	174|	5|	54|	5
 Popularity / Prestige / Reputation of the event	|30|	1|	113|	4|	123|	6|	175|	4|	60|	4
 What time does it start	|17	|6|	87|	7|	126|	5|	165|	6|	54|	6
 Number of people registered	|17|	7|	96|	6|	123|	7|	134|	7|	43|	7
+
+# Do you plan for your peak performance events?
+Answer | PRO/1 | % |  Cat 2 | % | Cat 3 | % | Cat 4 | % | Cat 5 |  %  
+------|-------|---|--------|-----|------|---|-------|----|------|----
+Yes| 5|	100%	|22|	81%|	32|	82%|	37|	76%|	10	|63%
