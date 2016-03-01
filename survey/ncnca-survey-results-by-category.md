@@ -50,8 +50,8 @@ All categories **start planing events** at the beginning of season, but **Cat 5*
 
 All categories can plan their season for **several months** only, but cat 5 is planning for 1 months mostly, and cat 2 can plan for **full season** mostly.
 
-Only cat 1/PRO chose the **race popularity** as the most important criteria. And only then **if they liked it** and **Type** go, but for others it's the most important criteria.
+Cat 1/PRO chose the **race popularity** as the most important criteria. But since it's 5 people only we can ignore this difference. And only then **if they liked it** and **Type** go, but for others it's the most important criteria.
 
 All cat 1/Pro plan peak events, but other categories plan it as well (around 80% of people).
 
-In general survey show differences in votes in different categories as expected. The most experienced racers work on plan more detailed and more often.
+In general survey shows differences in votes in different categories as expected. The most experienced racers work on plan in more detailed manner and more frequently.
