@@ -44,4 +44,7 @@ Answer | PRO/1 | % |  Cat 2 | % | Cat 3 | % | Cat 4 | % | Cat 5 |  %
 Yes| 5|	100%	|22|	81%|	32|	82%|	37|	76%|	10	|63%
 
 # Conclusion
+All categories **planning their races for** themselves and for knowing teammetes mostly, but 3s think that letting know to their coach is really important. **Cat 1/Pro and 5s** marked 20% importancy only.
+All categories **start planing events** at the begining of season, but **Cat 5** planing it when they have a chance as well.
+
 
