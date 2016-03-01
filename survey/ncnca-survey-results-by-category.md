@@ -18,7 +18,7 @@ Before each sub-season (winter-spring, summer-autumn)|	0 |	0%	|5	|19%	|11	|28%	|
 When I have a chance (spontaneously)	|1|	20%|	3	|11%|	9|	23%|	11|	22%|	7	|44%
 Once a month	|0	|0%|	1|	4%|	3	|8%|	5|	10%|	1	|6%
 
-# What period of time do you plan for?		
+# For what period racers plan	
 Answer | PRO/1 | % |  Cat 2 | % | Cat 3 | % | Cat 4 | % | Cat 5 |  %  
 ------|-------|---|--------|-----|------|---|-------|----|------|----
 Full season 	|1|	20%|	13|	48%|	7|	18%|	12|	24%|	2|	13%
@@ -27,7 +27,7 @@ Several months |	2|	40%|	10|	37%	|17|	44%	|19	|39%|	4|	25%
 Month 	|2	|40%|	2|	7%|	7|	18%|	7|	14%|	9	|56%
 Week or two	|0	|0%|	0|	0%|	2|	5%|	4	|8%|	1|	6%
 
-# Criteria you use to decide on your events								
+# Criteria you use to decide on your events					
 Answer | PRO/1 | place |  Cat 2 | place | Cat 3 | place | Cat 4 | place | Cat 5 |  place  
 ------|-------|---|--------|-----|------|---|-------|----|------|----
 Event Type (RR, Crit, TT, etc)	|26|	3|	163|	1|	228|	1|	281|	1	|91|	1
@@ -42,3 +42,6 @@ Number of people registered	|17|	7|	96|	6|	123|	7|	134|	7|	43|	7
 Answer | PRO/1 | % |  Cat 2 | % | Cat 3 | % | Cat 4 | % | Cat 5 |  %  
 ------|-------|---|--------|-----|------|---|-------|----|------|----
 Yes| 5|	100%	|22|	81%|	32|	82%|	37|	76%|	10	|63%
+
+# Conclusion
+
