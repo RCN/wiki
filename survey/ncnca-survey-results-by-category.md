@@ -44,7 +44,14 @@ Answer | PRO/1 | % |  Cat 2 | % | Cat 3 | % | Cat 4 | % | Cat 5 |  %
 Yes| 5|	100%	|22|	81%|	32|	82%|	37|	76%|	10	|63%
 
 # Conclusion
-All categories **planning their races for** themselves and for knowing teammetes mostly, but 3s think that letting know to their coach is really important. **Cat 1/Pro and 5s** marked 20% importancy only.
+All categories **planning their races for** themselves and for knowing teammetes mostly, but 3s think that letting know to their coach is really important too. **Cat 1/Pro and 5s** marked 20% importancy only.
+
 All categories **start planing events** at the begining of season, but **Cat 5** planing it when they have a chance as well.
 
+All categories can plan thier season for **several months** only, but cat 5 is planning for 1 months mostly, and cat 2 can plan for **full season** mostly.
 
+Only cat 1/PRO chose the **race popularity** as the most important criteria. And only then **if they liked it** and **Type** go, but for others it's the most importnt criterias.
+
+All cat 1/Pro plan peak events, but other categories plan it as well (around 80% of people).
+
+In general survey show differences in votes in different categories as expected. The most experiensed racers work on plan more detailed and more often.
