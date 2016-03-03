@@ -1,13 +1,3 @@
-# Why we do that
-
-We tried to analyze how racers plan their racing season. Right now there is no good tool: 
-- to look up all information about races, location and estimate driving time, 
-- to compare this with their usual life events 
-- to send this information to a coach
-- share it with their team 
-
-So we asked how people usually do that.
-
 # Survey results
 
 We've got 209 unique visits and **145** responses in this survey. **10** of them don't plan races at all (and 7 our of this 10 would would plan their season if good tool existed).
@@ -17,21 +7,23 @@ We've got 209 unique visits and **145** responses in this survey. **10** of them
 ####Distribution by Categories and Age
 The biggest group is cat 4
 
-| Category | % |
-| -- | -- |
-| cat 5 | 12% |
-| cat 4 | **37%** |
-| cat 3 | 28% |
-| cat 2 | 19% |
-| 1/Pro | 4%  |
 
-| Age | % |
-| -- | -- |
-| 55+ | 21% |
-| 45-55 | **31%** |
-| 35-44 | 21% |
-| 24-34 | 21% |
-| Under 23 | 6%  |
+Category | % 
+------- | ----- 
+cat 5 | 12% 
+cat 4 | **37%** 
+cat 3 | 28% 
+cat 2 | 19% 
+1/Pro | 4%  
+
+
+Age   | % 
+----- | ---- 
+55+   | 21% 
+45-55 | **31%** 
+35-44 | 21% 
+24-34 | 21% 
+Under 23 | 6%  
 
 
 19% of female racers.
