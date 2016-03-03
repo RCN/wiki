@@ -1,10 +1,14 @@
-1. Tell me a little about yourself:
+#List of questions to ask during interview
+
+### Requirements
+ We should ask for something that other racers would be interested to know, not something that is obvious or can be find in Google.
+
+1. Tell us a little about yourself
  * How long you've been in cycling industry
  * How you started riding
  * What sort of riding you do now (or before) 
  * When you discovered races, do you remember your first race? How it has happen? 
  * Where you live now
-
 2. Why did you decide to organize race?
 
 3. What kind of race(s) are you currently organizing?
