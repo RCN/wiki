@@ -1,1 +1,1 @@
-Interviews with races organizers.
+Interviews with races promoters.

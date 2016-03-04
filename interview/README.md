@@ -1,1 +1,1 @@
-Here we post everything about our interviews with cyclists, racer organizers, coaches and other people from cycling industry.
+Here we post everything about our interviews with cyclists, race promoters, coaches and other people from cycling industry.
