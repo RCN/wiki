@@ -4,7 +4,7 @@
 A Wiki for RCN files, surveys, drafts or things we need to remember.
 * [Interview](interview/README.md)
   * [Promoters](interview/promoters/README.md)
-    * [Questions](interview/organizers/questions.md)
+    * [Questions](interview/promoters/questions.md)
 * [Races](races/README.md)
   * [NCNCA](races/ncnca/README.md)
     * [Snelling Road Race](races/ncnca/snelling-road-race.md)
