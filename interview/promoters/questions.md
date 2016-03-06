@@ -20,6 +20,7 @@ Questions should be in the order we are going to ask them. Preliminary results s
  * What sort of riding do you do now?
  * How different was bike racing back then?
  * Where do you live?
+ * Do you have family?
 * Promoting
   * Why have you decided to become a promoter?
   * What motivates you?
