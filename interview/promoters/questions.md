@@ -24,6 +24,7 @@ Questions should be in the order we are going to ask them. Preliminary results s
 * Promoting
   * Why have you decided to become a promoter?
   * What motivates you?
+  * How did you choose routs for races (Velopromo - road pavement is bad and people usually know that if it is Velopromo, race will be tough)
   * How early do you have to wake up on a race day?
   * Can you earn meaningful money by promoting races?
   * Who helps you? How many people?
