@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Data](data/README.md)
+  * [Charts](data/charts/README.md)
 * [Interview](interview/README.md)
   * [Promoters](interview/promoters/README.md)
     * [Questions](interview/promoters/questions.md)
