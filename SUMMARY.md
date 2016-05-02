@@ -7,6 +7,7 @@
    * [Promoters](interview/promoters/README.md)
        * [Questions](interview/promoters/questions.md)
        * [Keith DeFiebre](interview/promoters/keith_defiebre.md)
+       * [Problems](interview/promoters/problems.md)
 * [Races](races/README.md)
    * [NCNCA](races/ncnca/README.md)
        * [Snelling Road Race](races/ncnca/snelling-road-race.md)
