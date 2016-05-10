@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [Data](data/README.md)
    * [Charts](data/charts/README.md)
+   * [Racing info on cards](data/racing-info-on-cards/README.md)
+    * [Racing info priority](data/racing-info-on-cards/racing-info-priority.md)
 * [Interview](interview/README.md)
    * [Promoters](interview/promoters/README.md)
        * [Questions](interview/promoters/questions.md)
