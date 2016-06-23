@@ -9,7 +9,6 @@ Majority in our survey are racers (92%) who are:
 
 favorite type of Road Event (if racing road):
 
-
 Name | people | %
 ----|----|----
 Road Race |66 | 67%
