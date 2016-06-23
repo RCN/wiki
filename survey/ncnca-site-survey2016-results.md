@@ -1,4 +1,4 @@
-# Survey results
+# General info about participants
 
 Survey was sent by email to people from Yahoo usacycling.org group. Several answers more were gotten after posting survey link on ncnca.org site. In general we've got 99 answers for now (73 males and 26 females).
 
@@ -18,3 +18,8 @@ Stage Race |37 | 37%
 Time Trial |16 | 16% 
 Omnium | 13 | 13% 
 Hill Climb |6 | 6%
+
+# Information about the NCNCA site
+
+`Average rating is 2.89 out of 5`
+
