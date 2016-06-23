@@ -22,6 +22,7 @@ Hill Climb |6 | 6%
 # Information about the NCNCA site
 
 `Average rating` is 2.89 out of 5
+58% of people don't know what "2016 NCNCA Premier Series" means.
 
 ###The most expecting features from NCNCA calendar are:
 
