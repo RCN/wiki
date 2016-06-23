@@ -17,7 +17,6 @@ A Wiki for RCN files, surveys, drafts or things we need to remember.
   * [NCNCA survey results](survey/ncnca-survey-results.md)
   * [NCNCA survey results by category](survey/ncnca-survey-results-by-category.md)
   * [Comparing Zoca and NCNCA results](survey/comparing-zoca-and-ncnca-results.md)
-  * [NCNCA site survey 2016 results](survey/ncnca-site-survey2016-results.md)
 * [Other](/other/README.md)
   * [Interesting links](other/interesting-links.md)
 
