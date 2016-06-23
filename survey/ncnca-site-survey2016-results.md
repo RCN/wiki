@@ -7,7 +7,7 @@ Majority in our survey are racers (92%) who are:
 - `20+ races` (49%)
 - `45-54 yo` (33%), `23-34 yo` (26%), `35-44 yo` (23%)
 
-favorite type of Road Event (if racing road):
+###Favorite type of Road Event (if racing road):
 
 Name | people | %
 ----|----|----
