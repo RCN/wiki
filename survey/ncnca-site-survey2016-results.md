@@ -21,5 +21,15 @@ Hill Climb |6 | 6%
 
 # Information about the NCNCA site
 
-`Average rating is 2.89 out of 5`
+`Average rating` is 2.89 out of 5
 
+###The most expecting features from NCNCA calendar are:
+
+Feature | %
+-----|-----
+Be able to see time to drive (and distance to an event from home) right in the Calendar | 55%
+Sync with Google/Apple calendar | 52%
+Mark events as “planning to do” to keep yourself organized, share with you team, family, coach and get reminders to pre-reg | 45%
+Filter or search events by category (e.g. find events offering “45+ 1/2/3”, “Women 3/4” or “Junior 15-18” fields) |42%
+Get SMS/Email with pre-reg deadline reminders | 39%
+Filter or search events by start time for your categories | 23%
