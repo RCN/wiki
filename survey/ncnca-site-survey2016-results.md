@@ -19,7 +19,7 @@ Time Trial |16 | 16%
 Omnium | 13 | 13% 
 Hill Climb |6 | 6%
 
-# Information about the NCNCA site
+# Information about the NCNCA Site
 
 `Average rating` is 2.89 out of 5
 58% of people don't know what "2016 NCNCA Premier Series" means, but 65% care about race series in general.
@@ -27,7 +27,7 @@ Hill Climb |6 | 6%
  55% use NCNCA.org besides calendar.
 
 
-###The most expecting features from NCNCA calendar are:
+###The most expecting features from NCNCA Calendar are:
 
 Feature | # People |%
 -----|----|---
@@ -38,7 +38,7 @@ Filter or search events by category (e.g. find events offering “45+ 1/2/3”, 
 Get SMS/Email with pre-reg deadline reminders | 39 | 39%
 Filter or search events by start time for your categories | 23 | 23%
 
-### How do they like flyers:
+### How do they like Flyers:
 
 Answer | # People | %
 ----|----|----
@@ -47,50 +47,25 @@ Useful, but hard to read | 37 | 37%
 Hard to use on mobile devices | 32 | 32% 
 Hard to comprehend | 9 | 9%
 
-Ease of use
-advanced filtering, mobile friendliness
-Reg fee increase deadline and pre-reg deadline
 
-History/Archiving, search functionality, course info
+### What info/feature is missing on ncnca Calendar
 
-In the past the ncnca calendar was on Google, so I could copy race events to my personal Google calendar, which was really nice.
+Advanced filter (by distance), search 7
+Direct event location 3
+Mobile friendly 6
+Quick flyer, start time access 2
+Registration fee and pre-reg deadline 2
+Course info 1
+Export calendar 2
+Photo link 2
+Intuitiveness 1
+Track Event details 1
+UI and UX (months navigation) 9
 
-none
-Reminders for pre-reg deadlines. Quicker access to race flyers and start times. 
+MTB 3 (kurt_kuckein@yahoo.com, 
+XC 1
+ 
 
-None
-Mountain Bike Races - needs more info.
-being able to filter based on distance from a zip/location. Filtering also for certain events based on a search criteria. Say I wanted to only show races with a field for 3/4 and 4 so I could race twi
-Swipe months
-Nothing, its all there if you look deep enough.  Clicking through 2 pages isn't a big inconvenience for me.
-
-Direct link of it's own to photograhers. Its under Blogs I think now...really?
-Intuitiveness. 
-Distance from personal zip code. Series the race belongs to.
-Format is relatively useful and pragmatic, export function would be nice.  Main thing is cleaning up the site, there are links to things like the "MTB Calendar" which has not been updated since 2014
-No comment
-Address listings for each event.  Very helpful for today's GPS society.
-Track Event details 
-
-
-Mobile experience. Accurate start location google maps links.
-XC racing.
-Nothing 
-
-Events for women only?  :)
-User friendliness mainly with better graphics/icons. There have been occasions where the links weren't working on race info, or there wasn't a link for a particular race.  Also, a page for photographr
-Would like to have access to flyers throughout the year for planning my races
-Exact location of some races to input into GPS/ nav
-
-I think most all the information I need is available in the calendar.  The only thing I think could maybe be improved is the look & feel but this is more cosmetic than anything.
-
-I would like to see the entire calendar without having to hit the >> to cycle through the months.  Just give me a page with the remaining months of the year displayed.  
-Could be easier to use, especially on mobile devices. Quick pop up info on races would be good. 
-Mobile / phone view
-It would be cool if distance to events could be shown.
-Opening to the calendar on the NCNCA homepage; a tab to toggle between Cal view and list view (I always forget list view is available below the Cal view). A mobile friendly site/interface PLEASE!
-Poor mobile layout
-All the info is there, it's just not well organized.
 In general, it looks like a '95 website - responsive design and a usability overhaul, simplified, etc.
 It would be nice to be able to see all the events at the same time rather than having to look under Mtn Bike for those races or Track for those.
 Having the direct link to the registration page for the race, rather than just the domain name and then having to search for it.  I'd also like to see a mobile ready version.
