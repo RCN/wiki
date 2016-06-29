@@ -51,43 +51,27 @@ Hard to comprehend | 9 | 9%
 ### What info/feature is missing on ncnca Calendar
 
 Advanced filter (by distance), search 7
-Accurate and updated info 3
-Direct event location 3
+Accurate and updated info (include cancelled) 4
+Direct event location 4
 Direct event registration link 3
 Mobile friendly 7
-Quick flyer, start time access 2
+Quick flyer, start time access 3
 Registration fee and pre-reg deadline 2
 Course info 1
 Export calendar 3
-Photo link 2
-Intuitiveness 1
+Photo link 3
+Social networking 3
+Find series 3
+Intuitiveness 3
 Track Event details 1
-UI and UX (months navigation) 9
+UI and UX (months navigation) 11
 
 MTB 4 (kurt_kuckein@yahoo.com, joe.molinari@gmail.com, 
 XC 2
  
 funny:
 Calendar should include unsanctioned events (Grasshoppers, Super  Pro etc.)
-
-
-
-Culling of races that are not happening/cancelled. "
-It's all there. Look and feel is outdated.
-
-Easier way to find race series , i.e. Ncnca women's series races and standings
-I've grown used to the site over the years. I remember it being very difficult to understand in the beginning.
-Missing rider comments and questions. A social networking posts like pictures, links to photographers, etc  - - Adam Martin
-nothing missing, but confusing to navigate
 Don't need to show every day of the month if they're blank.. A big flat list would do, I think.
-Every presenter needs to list a Race Flyer (.pdf) on NCNCA calendar.  A link to their website homepage is insufficient.
-
-Better map links
-none
-Other usacycling rides
-
-
-Clarity and ability to sync 
 
 The information is technically all there, it's just a beast to find it and it doesn't look particularly good. BAR/BAT, Premier Series, etc details are hard to find unless you know where to look.
 "From Schedule -> All Events by Year there is no obvious way to get the calendar view.
