@@ -57,51 +57,21 @@ Direct event registration link 3
 Mobile friendly 7
 Quick flyer, start time access 3
 Registration fee and pre-reg deadline 2
-Course info 1
-Export calendar 3
-Photo link 3
-Social networking 3
+Course info 2
+Export calendar 4
+Photo link 5
+Social networking and racers info 5
 Find series 3
-Intuitiveness 3
-Track Event details 1
-UI and UX (months navigation) 11
-
-MTB 4 (kurt_kuckein@yahoo.com, joe.molinari@gmail.com, 
-XC 2
+Intuitiveness 4
+UI and UX (months navigation) 18
+MTB 6 (kurt_kuckein@yahoo.com, joe.molinari@gmail.com, oscar.nunez212@gmail.com,
+XC 4
+Track 3
  
 funny:
 Calendar should include unsanctioned events (Grasshoppers, Super  Pro etc.)
 Don't need to show every day of the month if they're blank.. A big flat list would do, I think.
-
-The information is technically all there, it's just a beast to find it and it doesn't look particularly good. BAR/BAT, Premier Series, etc details are hard to find unless you know where to look.
-"From Schedule -> All Events by Year there is no obvious way to get the calendar view.
-
-The calendar view could scroll to always show at least the next two weeks, even across moths."
-
-
 Cat
 Larger fonts
-link to photos for each race, better links to track and cross races
-
-Demographics of current racer by cat needed for sponsor info. 
-EASIER TO GET LINK TO OFFICIAL'S WIKI
-
 Mountain and cross calendar is incomplete. No gravel races. Should have races in Oregon Washington and So Cal
 
-
-
-The information is there, however, the site needs a face-lift.
-The calendar is good. Not much more needed. Perhaps better course descriptions (but that is race directors I am sure.) Maybe location of race on Calendar. Quick link to who is reged?
-
-more photos
-
-Mtb, track events.. or least more of them
-Calendar is OK but it would be nice to look at more than one month at a time. 
-The ability to send to the apple calendar and to print it
-
-
-I find it very cumbersome to use. Too many clicks to get to where I want to go (especially to see event details), and it's frustrating that the details open in the same tab.
-Visual design.  
-
-
-results
