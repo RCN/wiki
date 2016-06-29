@@ -102,24 +102,18 @@ Would like to see more incentives for early registration. Perhaps each rider cou
 
 Might be nice if race reports and photos could be shared there. Mostly now use norcalcyclingnews, or whatever random site people post to.
 
-seems most racers are pretty short-sighted in terms of events, so maybe having a running list of the upcoming events in the next 15 days on the front page (without having to go in the calendar) would be nice.
-
+Seems most racers are pretty short-sighted in terms of events, so maybe having a running list of the upcoming events in the next 15 days on the front page (without having to go in the calendar) would be nice.
 
 I like the calendar the way it is.  I would like to download data so I could analyze.
+
 I would love to see results pages. Also, more comprehensive information on mountain bike races - and other races where info is hard to come by. 
-
-
-
 
 Maybe its there somewhere, but photos next to the names of our board members. I didnt know who Keith was until this year, but he's at every race. It's not always easy to make the connection.
 
 Seemless integration with USACycling website?
 Mainly clean up of old links that are no longer maintained, and a modern look and feel would be nice
 
-
 Fewer races. Keep the classics, limit industrial park crits
-
-
 
 "I think the team element detracts more than it adds to local racing, and is sending racers to other events like gravel racing and grass hoppers.
 
@@ -127,75 +121,48 @@ The team element seems to be totally unregulated, and a single team can make up 
 
 Perhaps we could consider races without teams, or at least where everybody races for themselves even if on the same team (see motor racing model) to avoid what can me major distortions in the race that are neither good for the guys on the team, or the other racers."
 
-
 More women racing!  
 
-
-
-
 As mentioned in a previous comment, other than maybe a little need for a cosmetic upgrade, I'm happy with the NCNCA calendar.  I do, however, like the idea of SMS/Email reg-deadline reminders and event filter capability.
+
 The look and feel of it shows its age. A good revamp is long overdue! The menus/drop-downs at the top should be on the left and more easily readable. Reg links and flyers area could be cleaned up a bit and needs to "flow" better. 
+
 Make is so when we go to ncnca.org/road that we get a calendar with only road events (no track/MTB/CX, etc).
-
-
 
 Simplified navigation at the top, mobile friendly, calendar right there on the homepage. 
 
 "Improve and update page. Have one source for communication. It seems many race directors post on the yahoo page, but I know of very few racers that know it exists. Perhaps link a vbulletin message board for improved discussion??
 
-"
 Mentioned above, and for example, road-results and bikereg are headed the right direction, but aren' all the way there - mainly in keeping it simple and clean.
 
-
-
 Thanks for the good work!
+
 As a former cat 3 racing 30 us races a year the current environment of over serious jacked up testosterone prescripted racers has ZERO appeal. Racings not fun anymore. Most of the guys I ride with feel the same way and also barely bother to attend road racing anymore. Especially given the stupid race fees. Not all of us have $8000 race bikes.
-None
+
 I would love it if the NCNCA website was more of a hub for racing communication, news, updates, etc.
-
-
-
 
 It's ugly and can be confusing. Hard to find info on premier series and other series. MTB calendar was not added until late in the season.
 
-
-
-
-
 Links to pics/media on events page. Maps that actually work when clicked on (iOS)
+
 I like the website.  All the series are great. more photos would be best.
-
-
-
-
 
 Whatever improvements, make sure everything is easy to navigate/read on mobile. So many times I've tried to pull up race info while driving to an event and been frustrated.
 
-
-
 More Junior racing to attract more juniors. More classic RR promotion.  More down town crits to attract more interest in Cycling. More event promotion outside cycling circles to attract people to the idea of the sport.
+
 Combine racing calendar with NCNCA Blog& NorCal cycling news, more content from teams
 
-
-Make calendar export more user-friendly.
-add track race events to road calendar so everyone can see the entire calendar and events don't cross, especially important for scheduling officials. 
-
-
+Add track race events to road calendar so everyone can see the entire calendar and events don't cross, especially important for scheduling officials. 
 
 It would be nice is event flyers had google maps locations or addresses for reg and or parking
 
-n/a
-
-
-none for now
-
-
 I would like to see the site be more user friendly for those who are new to racing and/or are thinking about racing. Maybe a separate heading specifically for NEW RACERS. 
 
-
 I wish it had info/the chart for requirements for upgrade points. And in an easy to find way.
+
 Why can't event flyers include a map of the race, or a link to a ridewithgps or strava route of the race?
+
 Would be great to add more information from the race flyers to the page itself.  Most of the time the PDF is hard to read and it's not convenient.
 
-
-easily accessible archived results
+Easily accessible archived results
