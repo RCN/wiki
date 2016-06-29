@@ -51,33 +51,27 @@ Hard to comprehend | 9 | 9%
 ### What info/feature is missing on ncnca Calendar
 
 Advanced filter (by distance), search 7
+Accurate and updated info 3
 Direct event location 3
-Mobile friendly 6
+Direct event registration link 3
+Mobile friendly 7
 Quick flyer, start time access 2
 Registration fee and pre-reg deadline 2
 Course info 1
-Export calendar 2
+Export calendar 3
 Photo link 2
 Intuitiveness 1
 Track Event details 1
 UI and UX (months navigation) 9
 
-MTB 3 (kurt_kuckein@yahoo.com, 
-XC 1
+MTB 4 (kurt_kuckein@yahoo.com, joe.molinari@gmail.com, 
+XC 2
  
+funny:
+Calendar should include unsanctioned events (Grasshoppers, Super  Pro etc.)
 
-In general, it looks like a '95 website - responsive design and a usability overhaul, simplified, etc.
-It would be nice to be able to see all the events at the same time rather than having to look under Mtn Bike for those races or Track for those.
-Having the direct link to the registration page for the race, rather than just the domain name and then having to search for it.  I'd also like to see a mobile ready version.
 
-"> calendar is hard to export from.
-> Calendar should include unsanctioned events (Grasshoppers, Super  Pro etc.)
-> Calendar should link to reg site directly. No need for info page on NCNCA site"
-Mtb
-Nothing
-Cyclocross racing
-"Accurate dates/times. 
-Links to race websites or registration websites. 
+
 Culling of races that are not happening/cancelled. "
 It's all there. Look and feel is outdated.
 
