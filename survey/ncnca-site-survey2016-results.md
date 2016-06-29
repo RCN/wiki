@@ -83,10 +83,10 @@ Access to data of race total by category and YTD,  I can use that as promoter
 
 ### What do you use ncnca.org for besides Calendar?
 
-BAR/BAT and other series standings, results 14
+BAR/BAT and other series standings, results 15
 BOD, contacts 3
 Race promotions, directors 3 
-Links to photos of the races 6
+Links to photos of the races 7
 Notifications 1
 Yahoo discussions 1
 Rules 2
