@@ -50,21 +50,24 @@ Hard to comprehend | 9 | 9%
 
 ### What info/feature is missing on ncnca Calendar
 
+UI and UX (months navigation) 18
+Mobile friendly 7
 Advanced filter (by distance), search 7
-Accurate and updated info (include cancelled) 4
+Intuitiveness 4
+Export calendar 4
+
+Accurate and updated info (include canceled) 4
 Direct event location 4
 Direct event registration link 3
-Mobile friendly 7
 Quick flyer, start time access 3
 Registration fee and pre-reg deadline 2
 Course info 2
-Export calendar 4
+
 Photo link 5
 Social networking and racers info 5
 Find series 3
-Intuitiveness 4
-UI and UX (months navigation) 18
-MTB 6 (kurt_kuckein@yahoo.com, joe.molinari@gmail.com, oscar.nunez212@gmail.com,
+
+MTB 6 (kurt_kuckein@yahoo.com, joe.molinari@gmail.com, oscar.nunez212@gmail.com)
 XC 4
 Track 3
  
