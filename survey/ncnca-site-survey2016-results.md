@@ -50,7 +50,7 @@ Hard to comprehend | 9 | 9%
 
 ### What info/feature is missing on ncnca Calendar
 
-UI and UX (months navigation) 18
+UI and UX (months navigation) 19
 Mobile friendly 7
 Advanced filter (by distance), search 7
 Intuitiveness 4
@@ -59,12 +59,12 @@ Export calendar 4
 Accurate and updated info (include canceled) 4
 Direct event location 4
 Direct event registration link 3
-Quick flyer, start time access 3
+Quick access to flyer, start time access 4
 Registration fee and pre-reg deadline 2
 Course info 2
 
-Photo link 5
-Social networking and racers info 5
+Photo link 7
+Social networking and demographic racers info 6
 Find series 3
 
 MTB 6 (kurt_kuckein@yahoo.com, joe.molinari@gmail.com, oscar.nunez212@gmail.com)
@@ -78,3 +78,71 @@ Cat
 Larger fonts
 Mountain and cross calendar is incomplete. No gravel races. Should have races in Oregon Washington and So Cal
 
+???
+Access to data of race total by category and YTD,  I can use that as promoter
+
+### What do you use ncnca.org for besides Calendar?
+
+BAR/BAT and other series standings, results 14
+BOD, contacts 3
+Race promotions, directors 3 
+Links to photos of the races 6
+Notifications 1
+Yahoo discussions 1
+Rules 2
+
+have tried to find (but failed) info on the mentoring program
+
+picture search, read NCNCA minutes, look at Series standings
+
+Photographer info, series results
+
+
+
+information as well as race planning
+Blog page to find race photos.
+
+
+
+Race series standings
+the blog for links to photos
+Site doesn't have much but the calendar. Need more content.
+using the blog to find race photos
+
+
+
+
+
+
+
+WOMENS series, BAT/BAR results, other series applicable to cat 3 women
+Blog for pictures
+BAR/BAT results, Premier Series Results, NCNCA Blog posts
+Checking standings for series
+Event photographerts (blog)
+BOD meeting minutes, BAT points
+
+Junior racing, rules, official contact 
+
+tracking BAR BAT, links to results, info 
+BAT competition
+As a racer and promoter and Club lead I used quite a bit of the website. Would be nice if usace info could be pulled down directly on the website
+OFFICIALS WIKI, NCNCA MEETING MINUTES
+photo blogs, series results info
+
+
+
+race pictures
+
+"Blog" for pics of race afterwards
+
+registration and directions 
+
+
+Look at info on Women's Series. Try to find info that new racers might want (not easy)!
+Watch Series points, link to USAC for racer information 
+
+Check BAR/BAT points
+I've looked at the women's race series, although I'm not in a position to really participate.
+
+I find photos in the blog section.
