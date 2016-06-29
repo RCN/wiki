@@ -83,66 +83,13 @@ Access to data of race total by category and YTD,  I can use that as promoter
 
 ### What do you use ncnca.org for besides Calendar?
 
-BAR/BAT and other series standings, results 15
-BOD, contacts 3
+BAR/BAT and other series standings, results 22
+BOD, meetings, contacts 6
 Race promotions, directors 3 
-Links to photos of the races 7
+Links to photos of the races (photographer's blogs) 17
 Notifications 1
 Yahoo discussions 1
+Info, wiki 5
 Rules 2
 
-have tried to find (but failed) info on the mentoring program
-
-picture search, read NCNCA minutes, look at Series standings
-
-Photographer info, series results
-
-
-
-information as well as race planning
-Blog page to find race photos.
-
-
-
-Race series standings
-the blog for links to photos
-Site doesn't have much but the calendar. Need more content.
-using the blog to find race photos
-
-
-
-
-
-
-
-WOMENS series, BAT/BAR results, other series applicable to cat 3 women
-Blog for pictures
-BAR/BAT results, Premier Series Results, NCNCA Blog posts
-Checking standings for series
-Event photographerts (blog)
-BOD meeting minutes, BAT points
-
-Junior racing, rules, official contact 
-
-tracking BAR BAT, links to results, info 
-BAT competition
-As a racer and promoter and Club lead I used quite a bit of the website. Would be nice if usace info could be pulled down directly on the website
-OFFICIALS WIKI, NCNCA MEETING MINUTES
-photo blogs, series results info
-
-
-
-race pictures
-
-"Blog" for pics of race afterwards
-
-registration and directions 
-
-
-Look at info on Women's Series. Try to find info that new racers might want (not easy)!
-Watch Series points, link to USAC for racer information 
-
-Check BAR/BAT points
-I've looked at the women's race series, although I'm not in a position to really participate.
-
-I find photos in the blog section.
+Info: have tried to find (but failed) info on the mentoring program
