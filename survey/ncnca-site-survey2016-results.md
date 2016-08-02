@@ -60,27 +60,40 @@ Majority in our survey are racers \(92%\) who are:
 * Export calendar 4
 
 
-Accurate and updated info \(include canceled\) 4
-Direct event location 4
-Direct event registration link 3
-Quick access to flyer, start time access 4
-Registration fee and pre-reg deadline 2
-Course info 2
+* Accurate and updated info \(include canceled\) 4
 
-Photo link 7
-Social networking and demographic racers info 6
-Find series 3
+* Direct event location 4
 
-MTB 6 \(kurt\_kuckein@yahoo.com, joe.molinari@gmail.com, oscar.nunez212@gmail.com\)
-XC 4
-Track 3
+* Direct event registration link 3
+
+* Quick access to flyer, start time access 4
+
+* Registration fee and pre-reg deadline 2
+
+* Course info 2
+
+
+
+
+* Photo link 7
+
+* Social networking and demographic racers info 6
+
+* Find series 3
+
+* MTB 6 \(kurt\_kuckein@yahoo.com, joe.molinari@gmail.com, oscar.nunez212@gmail.com\)
+
+* XC 4
+
+* Track 3
+
 
 funny:
-Calendar should include unsanctioned events \(Grasshoppers, Super  Pro etc.\)
-Don't need to show every day of the month if they're blank.. A big flat list would do, I think.
-Cat
-Larger fonts
-Mountain and cross calendar is incomplete. No gravel races. Should have races in Oregon Washington and So Cal
+- Calendar should include unsanctioned events \(Grasshoppers, Super  Pro etc.\)
+- Don't need to show every day of the month if they're blank.. A big flat list would do, I think.
+- Cat
+- Larger fonts
+- Mountain and cross calendar is incomplete. No gravel races. Should have races in Oregon Washington and So Cal
 
 ???
 Access to data of race total by category and YTD,  I can use that as promoter
