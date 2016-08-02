@@ -47,7 +47,7 @@ Majority in our survey are racers \(92%\) who are:
 | Hard to use on mobile devices | 32 | 32% |
 | Hard to comprehend | 9 | 9% |
 
-### What info\/feature is missing on ncnca Calendar
+### What info'\/feature is missing on ncnca Calendar
 
 * UI and UX \(months navigation\) 19
 
