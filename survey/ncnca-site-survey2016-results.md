@@ -51,39 +51,37 @@ Majority in our survey are racers \(92%\) who are:
 
 * UI and UX \(months navigation\) 19
 
-* Mobile friendly 7
+  Mobile friendly 7
 
-* Advanced filter \(by distance\), search 7
+  Advanced filter \(by distance\), search 7
 
-* Intuitiveness 4
+  Intuitiveness 4
 
-* Export calendar 4
+  Export calendar 4
 
+  Accurate and updated info \(include canceled\) 4
 
-* Accurate and updated info \(include canceled\) 4
+  Direct event location 4
 
-* Direct event location 4
+  Direct event registration link 3
 
-* Direct event registration link 3
+  Quick access to flyer, start time access 4
 
-* Quick access to flyer, start time access 4
+  Registration fee and pre-reg deadline 2
 
-* Registration fee and pre-reg deadline 2
+  Course info 2
 
-* Course info 2
+  Photo link 7
 
+  Social networking and demographic racers info 6
 
-* Photo link 7
+  Find series 3
 
-* Social networking and demographic racers info 6
+  MTB 6 \(kurt\_kuckein@yahoo.com, joe.molinari@gmail.com, oscar.nunez212@gmail.com\)
 
-* Find series 3
+  XC 4
 
-* MTB 6 \(kurt\_kuckein@yahoo.com, joe.molinari@gmail.com, oscar.nunez212@gmail.com\)
-
-* XC 4
-
-* Track 3
+  Track 3
 
 
 funny:
@@ -100,15 +98,17 @@ Access to data of race total by category and YTD,  I can use that as promoter
 ### What do you use ncnca.org for besides Calendar?
 
 * BAR\/BAT and other series standings, results 22
-  BOD, meetings, contacts 6
-  Race promotions, directors 3 
-  Links to photos of the races \(photographer's blogs\) 17
-  Notifications 1
-  Yahoo discussions 1
-  Info, wiki 5
-  Rules 2
+* BOD, meetings, contacts 6
+* Race promotions, directors 3
+* Links to photos of the races \(photographer's blogs\) 17
+* Notifications 1
+* Yahoo discussions 1
+* Info, wiki 5
+* Rules 2
 
 #### Have tried to find \(but failed\) info on the mentoring program \(theogoguely@gmail.com\)
+
+
 
 ### Free-form comments
 
