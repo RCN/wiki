@@ -112,13 +112,13 @@ Access to data of race total by category and YTD,  I can use that as promoter
 
 ### Free-form comments
 
-Championships and local races on the same weekend
+**Championships and local races** on the same weekend
 
-Would like to see more incentives for early registration. Perhaps each rider could be afforded a few roll overs each year if they need to cancel a pre-reg. I am often discouraged from registering when the turn out is low. Unlike triathlon, we do so many events that it sometimes is harder to commit early on.
+**Early registration** - Would like to see more incentives for early registration. Perhaps each rider could be afforded a few roll overs each year if they need to cancel a pre-reg. I am often discouraged from registering when the turn out is low. Unlike triathlon, we do so many events that it sometimes is harder to commit early on.
 
-Might be nice if race reports and photos could be shared there. Mostly now use norcalcyclingnews, or whatever random site people post to.
+**Photos and reports** - Might be nice if race reports and photos could be shared there. Mostly now use norcalcyclingnews, or whatever random site people post to.
 
-Seems most racers are pretty short-sighted in terms of events, so maybe having a running list of the upcoming events in the next 15 days on the front page \(without having to go in the calendar\) would be nice.
+**Upcoming events** - Seems most racers are pretty short-sighted in terms of events, so maybe having a running list of the upcoming events in the next 15 days on the front page \(without having to go in the calendar\) would be nice.
 
 I like the calendar the way it is.  I would like to download data so I could analyze.
 
