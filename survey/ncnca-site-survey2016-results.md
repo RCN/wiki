@@ -153,9 +153,9 @@ Fewer races. Keep the classics, limit industrial park crits
 
 More women racing!
 
-
-
 Make is so when we go to ncnca.org\/road that we get a calendar with only road events \(no track\/MTB\/CX, etc\).
+
+**Navigation**
 
 Simplified navigation at the top, mobile friendly, calendar right there on the homepage.
 
