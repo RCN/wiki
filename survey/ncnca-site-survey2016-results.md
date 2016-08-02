@@ -73,8 +73,6 @@ Majority in our survey are racers \(92%\) who are:
 * Course info 2
 
 
-
-
 * Photo link 7
 
 * Social networking and demographic racers info 6
@@ -89,11 +87,12 @@ Majority in our survey are racers \(92%\) who are:
 
 
 funny:
-- Calendar should include unsanctioned events \(Grasshoppers, Super  Pro etc.\)
-- Don't need to show every day of the month if they're blank.. A big flat list would do, I think.
-- Cat
-- Larger fonts
-- Mountain and cross calendar is incomplete. No gravel races. Should have races in Oregon Washington and So Cal
+
+* Calendar should include unsanctioned events \(Grasshoppers, Super  Pro etc.\)
+* Don't need to show every day of the month if they're blank.. A big flat list would do, I think.
+* Cat
+* Larger fonts
+* Mountain and cross calendar is incomplete. No gravel races. Should have races in Oregon Washington and So Cal
 
 ???
 Access to data of race total by category and YTD,  I can use that as promoter
