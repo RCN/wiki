@@ -114,17 +114,29 @@ Access to data of race total by category and YTD,  I can use that as promoter
 
 **Championships and local races** on the same weekend
 
-**Early registration** - Would like to see more incentives for early registration. Perhaps each rider could be afforded a few roll overs each year if they need to cancel a pre-reg. I am often discouraged from registering when the turn out is low. Unlike triathlon, we do so many events that it sometimes is harder to commit early on.
+**Early registration**
 
-**Photos and reports** - Might be nice if race reports and photos could be shared there. Mostly now use norcalcyclingnews, or whatever random site people post to.
+Would like to see more incentives for early registration. Perhaps each rider could be afforded a few roll overs each year if they need to cancel a pre-reg. I am often discouraged from registering when the turn out is low. Unlike triathlon, we do so many events that it sometimes is harder to commit early on.
 
-**Upcoming events** - Seems most racers are pretty short-sighted in terms of events, so maybe having a running list of the upcoming events in the next 15 days on the front page \(without having to go in the calendar\) would be nice.
+**Photos and reports** 
+
+Might be nice if race reports and photos could be shared there. Mostly now use norcalcyclingnews, or whatever random site people post to.
+
+Maybe its there somewhere, but photos next to the names of our board members. I didnt know who Keith was until this year, but he's at every race. It's not always easy to make the connection.
+
+**Upcoming events** 
+
+Seems most racers are pretty short-sighted in terms of events, so maybe having a running list of the upcoming events in the next 15 days on the front page \(without having to go in the calendar\) would be nice.
+
+**Export** 
 
 I like the calendar the way it is.  I would like to download data so I could analyze.
 
+**Results** 
+
 I would love to see results pages. Also, more comprehensive information on mountain bike races - and other races where info is hard to come by.
 
-Maybe its there somewhere, but photos next to the names of our board members. I didnt know who Keith was until this year, but he's at every race. It's not always easy to make the connection.
+
 
 Seemless integration with USACycling website?
 Mainly clean up of old links that are no longer maintained, and a modern look and feel would be nice
