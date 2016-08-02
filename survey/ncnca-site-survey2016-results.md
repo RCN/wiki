@@ -118,6 +118,8 @@ Access to data of race total by category and YTD,  I can use that as promoter
 
 Would like to see more incentives for early registration. Perhaps each rider could be afforded a few roll overs each year if they need to cancel a pre-reg. I am often discouraged from registering when the turn out is low. Unlike triathlon, we do so many events that it sometimes is harder to commit early on.
 
+I do, however, like the idea of SMS\/Email reg-deadline reminders and event filter capability.
+
 **Photos and reports**
 
 Might be nice if race reports and photos could be shared there. Mostly now use norcalcyclingnews, or whatever random site people post to.
@@ -140,26 +142,18 @@ I would love to see results pages. Also, more comprehensive information on mount
 
 Seemless integration with USACycling website?
 
-**Fresh content**
+**Fresh and good looking content**
 Mainly clean up of old links that are no longer maintained, and a modern look and feel would be nice
 
-**Limit races**
+The look and feel of it shows its age. A good revamp is long overdue! The menus\/drop-downs at the top should be on the left and more easily readable. Reg links and flyers area could be cleaned up a bit and needs to "flow" better.
+
+**Races types**
 
 Fewer races. Keep the classics, limit industrial park crits
 
-**Misunderstanding**
-
-"I think the team element detracts more than it adds to local racing, and is sending racers to other events like gravel racing and grass hoppers.
-
-The team element seems to be totally unregulated, and a single team can make up as much as 1\/3 of the field.  Of course a promoter is going to take everybody's entry fee, but as an indy racer, I'm looking outside the NCNCA for fun.
-
-Perhaps we could consider races without teams, or at least where everybody races for themselves even if on the same team \(see motor racing model\) to avoid what can me major distortions in the race that are neither good for the guys on the team, or the other racers."
-
 More women racing!
 
-As mentioned in a previous comment, other than maybe a little need for a cosmetic upgrade, I'm happy with the NCNCA calendar.  I do, however, like the idea of SMS\/Email reg-deadline reminders and event filter capability.
 
-The look and feel of it shows its age. A good revamp is long overdue! The menus\/drop-downs at the top should be on the left and more easily readable. Reg links and flyers area could be cleaned up a bit and needs to "flow" better.
 
 Make is so when we go to ncnca.org\/road that we get a calendar with only road events \(no track\/MTB\/CX, etc\).
 
@@ -200,4 +194,12 @@ Why can't event flyers include a map of the race, or a link to a ridewithgps or 
 Would be great to add more information from the race flyers to the page itself.  Most of the time the PDF is hard to read and it's not convenient.
 
 Easily accessible archived results
+
+**Misunderstanding**
+
+"I think the team element detracts more than it adds to local racing, and is sending racers to other events like gravel racing and grass hoppers.
+
+The team element seems to be totally unregulated, and a single team can make up as much as 1\/3 of the field. Of course a promoter is going to take everybody's entry fee, but as an indy racer, I'm looking outside the NCNCA for fun.
+
+Perhaps we could consider races without teams, or at least where everybody races for themselves even if on the same team \(see motor racing model\) to avoid what can me major distortions in the race that are neither good for the guys on the team, or the other racers."
 
