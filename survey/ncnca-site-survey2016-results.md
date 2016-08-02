@@ -99,14 +99,14 @@ Access to data of race total by category and YTD,  I can use that as promoter
 
 ### What do you use ncnca.org for besides Calendar?
 
-BAR\/BAT and other series standings, results 22
-BOD, meetings, contacts 6
-Race promotions, directors 3 
-Links to photos of the races \(photographer's blogs\) 17
-Notifications 1
-Yahoo discussions 1
-Info, wiki 5
-Rules 2
+* BAR\/BAT and other series standings, results 22
+  BOD, meetings, contacts 6
+  Race promotions, directors 3 
+  Links to photos of the races \(photographer's blogs\) 17
+  Notifications 1
+  Yahoo discussions 1
+  Info, wiki 5
+  Rules 2
 
 #### Have tried to find \(but failed\) info on the mentoring program \(theogoguely@gmail.com\)
 
