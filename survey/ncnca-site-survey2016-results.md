@@ -22,12 +22,13 @@ Majority in our survey are racers \(92%\) who are:
 
 # Information about the NCNCA Site
 
-`Average rating` is 2.89 out of 5
+Average rating is 2.89 out of 5
+
 58% of people don't know what "2016 NCNCA Premier Series" means, but 65% care about race series in general.
 
 55% use NCNCA.org besides calendar.
 
-### The most expecting features from NCNCA Calendar are:
+### The most expected features from NCNCA Calendar are:
 
 | Feature | \# People | % |
 | :--- | :--- | :--- |
