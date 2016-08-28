@@ -7,6 +7,7 @@
     * [Racing info priority](data/racing-info-on-cards/racing-info-priority.md)
 
 
+
 * [Interview](interview/README.md)
   * [Promoters](interview/promoters/README.md)
     * [Questions](interview/promoters/questions.md)
@@ -14,11 +15,13 @@
     * [Problems](interview/promoters/problems.md)
 
 
+
 * [Races](races/README.md)
   * [NCNCA](races/ncnca/README.md)
-    * \(Races canceled\)
-    * \(San Ardo Road Race\)
+    * [Races canceled](/races/ncnca/races-canceled.md)
+    * [San Ardo Road Race](/races/ncnca/san-ardo-rr.md)
     * [Snelling Road Race](races/ncnca/snelling-road-race.md)
+
 
 
 * [Survey](survey/README.md)
