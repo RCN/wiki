@@ -8,7 +8,7 @@
 | 2013 | 10 |
 | 2014 | 16 |
 | 2015 | 10 |
-| 2016 | 10 |
+| 2016 | 11 |
 
 *Counting Stage Races and Omniums as one race.
 
@@ -100,5 +100,6 @@ Source (NCNCA Calendar), raw data below.
        'Cancelled- Mariposa County Women\'s Stage Race: HC & RR - VP#11',
        'Cancelled- Mariposa County Women\'s Stage Race: RR - VP#11',
        'CANCELLED- Clovis Criterium',
-       'CANCELED -- Junior Road Race Championships' ] } ]
+       'CANCELED -- Junior Road Race Championships',
+       'Cancelled -- Vacaville Gran Prix - VP#21, CC#8'] } ]
 ```
