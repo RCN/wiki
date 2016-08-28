@@ -1,4 +1,10 @@
 { 
-    "description": "RCN.io wiki",
-     "plugins": ["heading-anchors"]
+  "description": "RCN.io wiki",
+  "plugins": ["heading-anchors", "edit-link"],
+  "pluginsConfig": {
+    "edit-link": {
+        "base": "https://github.com/RCN/wiki/tree/edits",
+        "label": "Edit This Page"
+    }
+  }
 }
