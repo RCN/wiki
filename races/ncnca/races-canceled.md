@@ -10,7 +10,7 @@
 | 2015 | 10 |
 | 2016 | 11 |
 
-*Counting Stage Races and Omniums as one race.
+*Counting Stage Races and Omniums as one race. Counting races that were planned, put into a calendar and then canceled for various reasons.
 
 ---
 
