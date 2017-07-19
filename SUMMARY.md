@@ -7,6 +7,7 @@
   * [Charts](data/charts/README.md)
   * [Racing info on cards](data/racing-info-on-cards/README.md)
     * [Racing info priority](data/racing-info-on-cards/racing-info-priority.md)
+  * [Data Questions](data/charts/data-questions.md)
 
 ## Interviews
 
