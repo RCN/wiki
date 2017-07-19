@@ -4,11 +4,10 @@ Event management is very easy. If you can edit text files—you can manage event
 
 Management of events consists of the following operations \(in the order of frequency\):
 
-\* editing of the existing event  
-\* creating a new event  
-\* moving / canceling existing event
-
-## Prerequisites
+* editing of the existing event
+* creating a new event
+* moving / canceling existing event
+* ## Prerequisites
 
 Login at github.com with your account \(TK paste account name\)
 
