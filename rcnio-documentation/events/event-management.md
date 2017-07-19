@@ -7,7 +7,8 @@ Management of events consists of the following operations \(in the order of freq
 * editing of the existing event
 * creating a new event
 * moving / canceling existing event
-* ## Prerequisites
+
+## Prerequisites
 
 Login at github.com with your account \(TK paste account name\)
 
